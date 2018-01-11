@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="lib" path="/Users/kboppana/eclipse-workspace/secured-driver/target/secured-jdbc-driver-0.3-jar-with-dependencies.jar"/>
 	<classpathentry kind="src" output="target/classes" path="src/main/java">
 		<attributes>
 			<attribute name="optional" value="true"/>
@@ -29,9 +30,7 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/secured-driver"/>
-	<classpathentry kind="lib" path="/Users/kboppana/Downloads/libs/mysql-connector-java-5.1.22.jar"/>
-	<classpathentry kind="lib" path="/Users/kboppana/eclipse-workspace/secured-driver/target/secured-jdbc-driver-0.3-jar-with-dependencies.jar"/>
 	<classpathentry kind="lib" path="/Users/kboppana/Downloads/ojdbc6_g.jar"/>
-	<classpathentry kind="lib" path="/Users/kboppana/eclipse-workspace/secured-metadata-driver/target/securedmeta-jdbc-driver-0.3-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="/Users/kboppana/Downloads/mysql-connector-java-5.1.22.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
